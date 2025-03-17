@@ -3,7 +3,7 @@
 Hey there, intrepid engineer! 🛠️
 So, you've found your way to this repository, and now you're thinking,
 
-*"I love not writing mocks and integration tests, I'd like to help others avoid doing work just liek me!"*
+*"I love not writing mocks and integration tests, I'd like to help others avoid doing work just like me!"*
 
 Good news—you absolutely can! 🎉
 
@@ -15,7 +15,7 @@ By contributing snapshots, you’re helping fellow engineers develop and test th
 ## ✨ How to Contribute a Snapshot  
 
 1. **Install proxymock**
-   If you haven't yet, install proxymock. The best way is to follow the [Getting Started](https://docs.speedscale.com/proxymock/getting-started/installation/) guide. However, if you're impatient like us, you can do it in one simple command:
+   If you haven't yet, install proxymock. The best way is to follow the [installation](https://docs.speedscale.com/proxymock/getting-started/installation/) guide. However, if you're impatient like us, you can do it in one simple command:
 
    ```sh
    brew install speedcale/tap/proxymock
