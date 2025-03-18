@@ -16,7 +16,7 @@ Use the examples in this repository as pre-built mock servers or simulators for 
    If you haven't yet, install proxymock. The best way is to follow the [installation](https://docs.speedscale.com/proxymock/getting-started/installation/) guide. However, if you're impatient like us, you can do it in one simple command:
 
    ```sh
-   brew install speedcale/tap/proxymock
+   brew install speedscale/tap/proxymock
    proxymock init
    ```
 
