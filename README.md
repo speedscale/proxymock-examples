@@ -31,6 +31,12 @@ Use the examples in this repository as pre-built mock servers or simulators for 
     ```
     Take note of the imported snapshot ID from the output.
 
+    If you want to see the contents of the snapshot in a fancy tui you can run:
+
+    ```sh
+    proxymock inspect snapshot [snapshot-id]
+    ```
+
 ## 📊 Usage
 
 1. **Start Mock Server**
